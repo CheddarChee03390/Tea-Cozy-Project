@@ -133,7 +133,7 @@ header .logo-small
 }
 
 /*locations*/
-#bg-img {
+.bg-img {
   background: url("img-locations-background.jpg") center center no-repeat;
   position: relative;
   top: 150px;
@@ -142,7 +142,7 @@ header .logo-small
   padding: 20px;
 }
 
-#title {
+.title {
 background-color: transparent;
     margin-bottom: 15px;
     text-align: center;
